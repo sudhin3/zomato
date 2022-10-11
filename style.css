@@ -1,0 +1,687 @@
+body{
+    margin: 0px;
+    font-family: okra, helvetica, sans-serif;
+   
+}
+
+.head{
+    width: 100%;
+    height: 450px;
+    background-image: url(../zomato/images/1background.jpg);
+}
+.logo
+.header{
+    width: 100%;
+    height: 50px;
+   
+}
+.app-icon{
+    width: 12px;
+    margin-left: 9%;
+    margin-top: 30px;
+    cursor: pointer;
+    
+}
+.app-text{
+    margin-left: 142px;
+    margin-top: -15px;
+    color: white;
+}
+.app-link1{
+    margin-left: 57%;
+    margin-top: -40px; 
+    font-size: 15px;
+}
+.z{
+    text-decoration: none;
+    cursor: pointer;
+    color: white;
+}
+.app-link2{
+    margin-top: -32px;
+    font-size: 15px;
+    margin-left: 68%;
+}
+.app-link3{
+    margin-top: -32px;
+    font-size: 15px;
+    margin-left: 79%;
+}
+.app-link4{
+    margin-top: -32px;
+    font-size: 15px;
+    margin-left: 85%;
+}
+.main-text{
+    text-align: center;
+   
+    
+}
+.zomato-logo{
+    width: 300px;
+    margin-top: 55px;
+}
+.zomato-text{
+    color: white;
+    font-size: 40px;
+}
+.text{
+    margin-top: 35px;
+}
+.kochi {
+    width: 53%;
+    height: 50px;
+    margin-left: 0%;
+    margin-top: 25px;
+    border-radius: 5px;
+    padding-left: 44px;
+    background-image: url(../zomato/images/placeholder.png);
+    background-repeat: no-repeat;
+    background-size: 20px;
+    background-position: 20px;
+    background-position-y: 14px;
+    border-color: white;
+}
+
+.search-text {
+    height: 50px;
+    width: 240px;
+    margin-left: -327px;
+    border-radius: 5px;
+    border-color: white;
+    background-image: url(../zomato/images/search-interface-symbol.png);
+    background-repeat: no-repeat;
+    background-position: 14px;
+    background-position-y: 16px;
+    background-size: 20px;
+    padding-left: 37px;
+    border-left: none;
+}
+.search-bar{
+    margin-top: -60px;
+    margin-left: 276px;
+}
+.boxs{
+    margin-left: 50px;
+    
+}
+.img-box{
+    border-radius: 25px;
+    background-image: url(../zomato/images/food1.jpg);
+    background-repeat: no-repeat;
+    margin-top: 10px;
+    
+}
+.food-img{
+    border-radius: 30px;
+    width: 45%;
+    margin-left: 40px;
+    margin-top: 50px;
+}
+.txt1{
+    margin-left: 40px;
+}
+.cube
+{
+    width: 100%;
+}
+.cube-left{
+    float: left;
+    margin-left: 9%;
+    margin-top: 35px;
+    cursor: pointer;
+}
+.food-left{
+    width: 515px;
+    height: 205px;
+    border-radius: 10px;
+}
+.cube-left-text{
+    width: 515px;
+    height: 70px;
+    border-radius: 10px;
+    position: absolute;
+    background-color: white;
+    margin-top: -74px;
+    border: 1px solid rgb(232, 232, 232);
+}
+.t1{
+    padding-left: 25px;
+    font-size: 20px;
+    margin-top: 16px;
+}
+.cube-right{
+    float: right;
+    margin-right: 9%;
+    margin-top: 35px;
+    cursor: pointer;
+}
+.food-right{
+    width: 515px;
+    height: 205px;
+    border-radius: 10px;
+}
+.food-left:hover{
+    width: 540px;
+    height: 230px;
+}
+.food-right:hover{
+    width: 540px;
+    height: 230px;
+}
+.cube-right-text{
+    width: 515px;
+    height: 70px;
+    border-radius: 10px;
+    position: absolute;
+    background-color: white;
+    margin-top: -74px;
+    border: 1px solid rgb(232, 232, 232);
+}
+.t2{
+    padding-left: 25px;
+    font-size: 20px;
+    margin-top: 16px;
+}
+.boxs{
+    margin-top: 10px;
+    height: 500px;
+    
+}
+.u1{
+    margin-top: 285px;
+}
+.a1{
+    margin-left: 80px;
+    font-size: 35px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.b2{
+    color: gray;
+    font-size: 19px;
+    margin-left: 82px;
+}
+.b1{
+    margin-top: -15px;
+}
+.b3{
+    margin-left: 2px;
+    font-size: 19px;
+    padding-left: 150px;
+}
+.b4{
+    text-decoration: none;
+    color: brown;
+}
+.pic {
+    width: 266px;
+    height: 325px;
+    margin-left: 77px;
+    border-radius: 10px;
+    margin-top: 25px;
+    background-image: url(../zomato/images/cry.jpg);
+}
+.x1 {
+    margin-top: -60px;
+    margin-left: 94px;
+    font-size: 22px;
+    color: white;
+}
+.z1{
+    color: white;
+    margin-left: 96px;
+}
+
+.pic2{
+    width: 266px;
+    height: 325px;
+    margin-left: 357px;
+    border-radius: 10px;
+    margin-top: -325px;
+    background-image: url(../zomato/images/idly.jpg);
+    background-position-y: 100%;
+}
+.x2 {
+    margin-top: -60px;
+    margin-left: 370px;
+    font-size: 22px;
+    color: white;
+}
+.z2{
+    color: white;
+    margin-left: 375px;
+}
+.pic3{
+    width: 266px;
+    height: 325px;
+    margin-left: 634px;
+    border-radius: 10px;
+    margin-top: -325px;
+    background-image: url(../zomato/images/fort.jpg);
+    background-position-y: 100%;
+}
+.x3 {
+    margin-top: -60px;
+    margin-left: 645px;
+    font-size: 22px;
+    color: white;
+}
+.z3{
+    color: white;
+    margin-left: 645px;
+}
+.pic4{
+    width: 266px;
+    height: 325px;
+    margin-left: 910px;
+    border-radius: 10px;
+    margin-top: -325px;
+    background-image: url(../zomato/images/cry.jpg);
+    background-position-y: 100%;
+}
+.x4 {
+    margin-top: -60px;
+    margin-left: 930px;
+    font-size: 22px;
+    color: white;
+}
+.z4{
+    color: white;
+    margin-left: 930px;
+}
+.img{
+    cursor: pointer;
+}
+.map{
+    margin-top: 130px;
+    margin-left: 75px;
+}
+.bag{
+    font-size: 35px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.d {
+    width: 300px;
+    height: 70px;
+    border: 1px solid rgb(232, 232, 232);
+    border-radius: 10px;
+    margin-top: 50px;
+    cursor: pointer;
+}
+.j{
+    font-size: 25px;
+    padding-top: 10px;
+    padding-left: 15px;
+}
+.k{
+    padding-left: 15px;
+    color: gray;
+}
+.d2{
+    width: 300px;
+    height: 70px;
+    border: 1px solid rgb(232, 232, 232);
+    border-radius: 10px;
+    margin-top: -72px;
+    margin-left: 400px;
+    cursor: pointer;
+}
+.j2{
+    font-size: 25px;
+    padding-top: 10px;
+    padding-left: 15px;
+}
+.k2{
+    padding-left: 15px;
+    color: gray;
+}
+.d3{
+    width: 300px;
+    height: 70px;
+    border: 1px solid rgb(232, 232, 232);
+    border-radius: 10px;
+    margin-top: -72px;
+    margin-left: 800px;
+    cursor: pointer;
+}
+.j3{
+    font-size: 25px;
+    padding-top: 10px;
+    padding-left: 15px;
+}
+.k3{
+    padding-left: 15px;
+    color: gray;
+}
+.d4{
+    width: 300px;
+    height: 70px;
+    border: 1px solid rgb(232, 232, 232);
+    border-radius: 10px;
+    margin-top: 25px;
+    cursor: pointer;
+}
+.j4{
+    font-size: 25px;
+    padding-top: 10px;
+    padding-left: 15px;
+}
+.k4{
+    padding-left: 15px;
+    color: gray;
+}
+.d5{
+    width: 300px;
+    height: 70px;
+    border: 1px solid rgb(232, 232, 232);
+    border-radius: 10px;
+    margin-top: -72px;
+    margin-left: 400px;
+    cursor: pointer;
+}
+.j5{
+    font-size: 25px;
+    padding-top: 10px;
+    padding-left: 15px;
+}
+.k5{
+    padding-left: 15px;
+    color: gray;
+}
+.d6{
+    width: 300px;
+    height: 70px;
+    border: 1px solid rgb(232, 232, 232);
+    border-radius: 10px;
+    margin-top: -72px;
+    margin-left: 800px;
+    cursor: pointer;
+}
+.j6{
+    font-size: 25px;
+    padding-top: 10px;
+    padding-left: 15px;
+}
+.k6{
+    padding-left: 15px;
+    color: gray;
+}
+.d7{
+    width: 300px;
+    height: 70px;
+    border: 1px solid rgb(232, 232, 232);
+    border-radius: 10px;
+    margin-top: 25px;
+    cursor: pointer;
+}
+.j7{
+    font-size: 25px;
+    padding-top: 10px;
+    padding-left: 15px;
+}
+.k7{
+    padding-left: 15px;
+    color: gray;
+}
+.d8{
+    width: 300px;
+    height: 70px;
+    border: 1px solid rgb(232, 232, 232);
+    border-radius: 10px;
+    margin-top: -72px;
+    margin-left: 400px;
+    cursor: pointer;
+}
+.j8{
+    font-size: 25px;
+    padding-top: 10px;
+    padding-left: 15px;
+}
+.k8{
+    padding-left: 15px;
+    color: gray;
+}
+.d9{
+    width: 300px;
+    height: 70px;
+    border: 1px solid rgb(232, 232, 232);
+    border-radius: 10px;
+    margin-top: -72px;
+    margin-left: 800px;
+    cursor: pointer;
+}
+.j9{
+    font-size: 25px;
+    padding-top: 20px;
+    padding-left: 15px;
+}
+.k9{
+    padding-left: 15px;
+    color: gray;
+}
+.get-the-app{
+   align-content: center;
+   text-align: center;
+   margin-top: 150px;
+}
+.imgs{
+    width: 250px;
+    margin-left: -40%;
+}
+.zomato-txt{
+    margin-top: -300px;
+    font-size: 45px;
+    margin-left: 250px;
+}
+.otp{
+    margin-left: 290px;
+    margin-top: 25px;
+    word-spacing: 1px;
+}
+.select{
+    margin-top: 30px;
+    font-size: 20px;
+    margin-left: 20px;
+}
+.phone{
+    margin-top: -23px;
+    margin-left: 300px;
+}
+.inpuut{
+    margin-left: 212px;
+    margin-top: 15px;
+}
+.emails{
+    width: 250px;
+    height: 40px;
+    border-radius: 7px;
+    border-color: gray;
+    border: -1px;
+}
+.search{
+    margin-top: -46px;
+    margin-left: 604px;
+    
+}
+.share-link{
+    width: 116px;
+    height: 46px;
+    background-color: rgb(231, 81, 22);
+    color: white;
+    border: 0ch;
+    border-radius: 7px;
+}
+.word{
+    color: gray;
+    margin-top: 15px;
+    margin-left: 85px;
+}
+.down{
+    width: 140px;
+    margin-left: 250px;
+    margin-top: 12px;
+}
+.down1{
+    width: 140px;
+    margin-left: 13px;
+    margin-top: 12px;
+}
+.six{
+    margin-top: 100px;
+}
+.txt-six{
+    font-size: 30px;
+    margin-left: 58px;
+    color: gray;
+}
+.value{
+    width: 90%;
+    margin-left: 55px;
+    height: 60px;
+    font-size: 20px;
+    padding-left: 15px;
+    margin-top: 25px;
+    border-radius: 10px;
+    border-color: gainsboro;
+}
+.footer{
+   
+    height: 400px;
+    margin-top: 100px;
+    
+}
+.foot-img{
+    width: 180px;
+    background-color: black;
+    margin-left: 54px;
+}
+
+.control {
+    padding: 10px;
+    border-radius: 10px;
+    border-color: gray;
+    width: 110px;
+    height: 45px;
+    margin-left: 10px;
+    padding-left: 30px;
+    background-image: url(../zomato/images/globe.svg);
+    background-repeat: no-repeat;
+    background-position: 1px;
+    background-position-x: 1px;
+}
+.foot-lang{
+    margin-top: -43px;
+}
+.last{
+    font-weight:lighter;
+    margin-left: 53px;
+    margin-top: 40px;
+}
+.contro{
+    padding: 10px;
+    border-radius: 10px;
+    border-color: gray;
+    width: 110px;
+    height: 45px;
+    margin-left: 985px;
+    padding-left: 30px;
+}
+.ind{
+    width: 4.5rem;
+    height: 3.0015rem;
+    display: inline-block;
+    background: url(../zomato/images/india.png) -141px 0px no-repeat;
+    transform: scale(0.488889);
+    margin-left: -1.2rem;
+}
+.last{
+    margin-top: 40px;
+}
+.about {
+    margin-left: 15px;
+}
+.about1 {
+    margin-left: 110px;
+}
+.about2 {
+    margin-left: 110px;
+}
+.about3 {
+    margin-left: 110px;
+}
+.about4 {
+    margin-left: 110px;
+}
+
+.poco{
+    margin-top:10px;
+    color: gray;
+    cursor: pointer;
+    font-family:Okra, Helvetica, sans-serif;
+    }
+    .poco1{
+        margin-left: 66px;
+    }
+    .poco2 {
+        margin-left: 150px;
+    }
+    .poco3 {
+        margin-left: 153px;
+    }
+    .poco4 {
+        margin-left: 152px;
+    }
+    .vivo1{
+        margin-left: 66px;
+    }
+    .vivo2 {
+        margin-left: 207px;
+    }
+    .vivo3 {
+        margin-left: 113px;
+    }
+    .vivo4 {
+        margin-left: 165px;
+    }
+
+    .hp1{
+        margin-left: 66px;
+    }
+    .hp2 {
+        margin-left: 142px;
+    }
+    .hp3 {
+        margin-left: 113px;
+    }
+    .hp4 {
+        margin-left: 284px;
+    }
+
+    
+.bm1{
+    margin-left: 66px;
+}
+.bm2 {
+    margin-left: 112px;
+}
+.bm3 {
+    margin-left: 135px;
+}
+.bm4 {
+    margin-left: 402px;
+}
+
+
+.gm1{
+    margin-left: 66px;
+}
+.gm2 {
+    margin-left: 364px;
+}
+
+
+
+
+
+
+
